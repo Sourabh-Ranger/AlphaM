@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:background="@color/blue"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/music_btn"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="150dp"
+        android:onClick="LoadMusic"
+        android:background="@color/white"
+        android:text="MUSIC" />
+
+    <Button
+        android:id="@+id/news_btn"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="250dp"
+        android:onClick="LoadNews"
+        android:background="@color/white"
+        android:text="NEWS" />
+    <Button
+        android:id="@+id/newmusic_btn"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="350dp"
+        android:background="@color/white"
+        android:text="MIND" />
+
+    <TextView
+        android:id="@+id/fitapp"
+        android:layout_width="166dp"
+        android:layout_height="42dp"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentBottom="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="50dp"
+        android:text="FITAPP"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

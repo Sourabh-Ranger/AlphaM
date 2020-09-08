@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794873735337",
+    "firebase_url": "https://alpha-music-94973.firebaseio.com",
+    "project_id": "alpha-music-94973",
+    "storage_bucket": "alpha-music-94973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794873735337:android:5efa039a17900890e561b8",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794873735337-bghcli0ahe8li89bv9gk1bm2j4nv8ch0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPBQOPLhEHeC_rSgaKHJeoVKikmyXmzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794873735337-bghcli0ahe8li89bv9gk1bm2j4nv8ch0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
