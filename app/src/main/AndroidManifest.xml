@@ -12,7 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".BmiActivity"></activity>
+        <activity android:name=".Diet3Activity"></activity>
+        <activity android:name=".Diet2Activity" />
+        <activity android:name=".Diet1Activity" />
+        <activity android:name=".DietActivity" />
+        <activity android:name=".BmiActivity" />
         <activity android:name=".ExerciseActivity" />
         <activity android:name=".Music3Activity" />
         <activity android:name=".Music2Activity" />

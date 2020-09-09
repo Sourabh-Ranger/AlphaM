@@ -18,7 +18,7 @@
         android:layout_marginTop="150dp"
         android:onClick="LoadAlbum"
         android:background="@color/white"
-        android:text="MUSIC" />
+        android:text="MENTAL HEALTH" />
 
     <Button
         android:id="@+id/news_btn"
@@ -42,6 +42,22 @@
         android:background="@color/white"
         android:onClick="LoadExercise"
         android:text="EXERCISE" />
+
+
+    <Button
+        android:id="@+id/diet_btn"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="450dp"
+        android:background="@color/white"
+        android:onClick="LoadDiet"
+        android:text="DIET" />
+
+
+
 
     <TextView
         android:id="@+id/fitapp"

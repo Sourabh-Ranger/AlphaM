@@ -14,4 +14,180 @@
     <string name="content_show_result"> </string>
     <string name="content_show_bmi"> </string>
     <string name="content_user_answer">Key your weight as Kg</string>
+
+
+
+    <string name="Banana">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin A and C, Calcium, Iron, Magnesium, Potasium</string>
+    <string name="Apple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
+    <string name="Pineapple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium</string>
+    <string name="Cashewnut">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
+    <string name="Lemon">Vitamin C ,Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (B1, B2, B6) ,Calcium, Iron, Potasium, Copper</string>
+    <string name="Strawberry">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium ,Selinium</string>
+    <string name="fruit1">Banana</string>
+    <string name="fruit2">Apple</string>
+    <string name="fruit3">Pineapple</string>
+    <string name="fruit4">Cashew nut</string>
+    <string name="fruit5">Lemon</string>
+    <string name="fruit6">Strawberry</string>
+    <string name="act1_but1">Nutrition levels of different fruits</string>
+    <string name="act1_but2">Recommended dietary allowance</string>
+    <string name="act1_but3">Diet plans</string>
+    <string name="back">back</string>
+    <string name="group1">Adult age group(male):</string>
+    <string name="group1_male">Calories:2900kcal\nProteins:58g\nVitamin A:1000mcg\nVitamin D:10mcg\nVitamin E:10mcg\nVitamin K:70mcg\nVitamin C:60mg\nVitamin B1:1.5mg\nVitamin B2:1.7mg\nVitamin B3:19mg\nVitamin B6:2mcg\nFolate:0.2mg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:350mg\nIron:10mg\nZinc:15mcg\nIodine:150mcg\nSelenium:70mcg</string>
+    <string name="group2">Adult age group(female):</string>
+    <string name="group2_female">Calories:2200kcal\nProteins:46g\nVitamin A:800mcg\nVitamin D:10mcg\nVitamin E:8mcg\nVitamin K:60mcg\nVitamin C:60mg\nVitamin B1:1.1mg\nVitamin B2:1.3mg\nVitamin B3:15mg\nVitamin B6:1.6mcg\nFolate:180mcg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:280mg\nIron:15mg\nZinc:12mcg\nIodine:150mcg\nSelenium:55mcg</string>
+    <string name="act4_text1">7-Days Diet Plan:</string>
+    <string name="s_day1">Day-1</string>
+    <string name="s_day2">Day-2</string>
+    <string name="s_day3">Day-3</string>
+    <string name="s_day4">Day-4</string>
+    <string name="s_day5">Day-5</string>
+    <string name="s_day6">Day-6</string>
+    <string name="s_day7">Day-7</string>
+    <string name="day1"><b>Breakfast (287 calories)</b>\n
+    • 1 serving Muesli with Raspberries\n\n\n
+
+    Clean-Eating Shopping Tip: When buying muesli, look for a brand that doesn\'t have added sugars, which take away from the healthy goodness of this whole-grain breakfast.\n\n\n
+
+    <b>A.M. Snack (62 calories)</b>\n
+    • 1 medium orange\n\n\n
+
+    <b>Lunch (360 calories)</b>\n
+    • 4 cups White Bean \'&amp;\' Veggie Salad\n\n\n
+
+    <b>P.M. Snack (95 calories)</b>\n
+    • 1 medium apple\n\n\n
+
+    <b>Dinner (420 calories)</b>\n
+    • 4 cups (1 1/2 servings) Kale Salad with Beets \'&amp;\' Wild Rice\n\n
+
+    • 1 serving Balsamic-Dijon Chicken\n\n
+
+    Daily Totals: 1,224 calories, 61 g protein, 153 g carbohydrates, 40 g fiber, 47 g fat, 1,400 mg sodium.</string>
+    <string name="day2"><b>Breakfast</b> (270 calories)\n
+    • 1 serving Avocado-Egg Toast\n\n\n
+
+    Clean-Eating Shopping Tip: Use sprouted-grain bread as your bread for these next two weeks as it\'s made without added sugars, unlike many store-bought breads. Also, if you plan to top your egg toast with hot sauce, look for a brand that\'s made without added sugars.\n\n\n
+
+    A.M. Snack (101 calories)\n
+    • 1 medium pear\n\n\n
+
+    Lunch (392 calories)\n
+    • 1 serving Greek Meatball Mezze Bowl\n\n\n
+
+    P.M. Snack (62 calories)\n
+    • 1 medium orange\n\n\n
+
+    Dinner (439 calories)\n
+    • 1 serving cup Squash \'&amp;\' Red Lentil Curry\n\n\n
+
+    • 1/2 cup Easy Brown Rice\n\n\n
+
+Daily Totals: 1,225 calories, 63 g protein, 147 g carbohydrates, 33 g fiber, 46 g fat, 1,965 mg sodium.</string>
+    <string name="day3">Breakfast\n (287 calories)
+    • 1 serving Muesli with Raspberries\n\n\n
+
+    A.M. Snack (62 calories)\n
+    • 1 medium orange\n\n\n
+
+    Lunch (392 calories)\n
+    • 1 serving Greek Meatball Mezze Bowl\n\n\n
+
+    P.M. Snack (92 calories)\n
+    • 12 almonds\n\n\n
+
+    Dinner (439 calories)\n
+    • 1 serving Asian Tilapia with Stir-Fried Green Beans\n\n
+
+    • 1 cup Easy Brown Rice\n\n\n
+
+    Daily Totals: 1,206 calories, 62 g protein, 174 g carbohydrates, 37 g fiber, 48 g fat, 1,444 mg sodium.</string>
+    <string name="day4">Breakfast (257 calories)\n
+    • 1/2 cup rolled oats, cooked in 1 cup milk\n\n
+
+    • 1 medium plum, chopped\n\n
+
+    Cook oats and top with plum and a pinch of cinnamon.\n\n\n
+
+    A.M. Snack (95 calories)\n
+    • 1 medium apple\n\n\n
+
+    Lunch (392 calories)\n
+    • 1 serving Greek Meatball Mezze Bowl\n\n\n
+
+    P.M. Snack (105 calories)\n
+    • 1 medium banana\n\n\n
+
+    Dinner (432 calories)\n
+    • 1 serving Sheet-Pan Chicken \'&amp;\' Brussels Sprouts\n\n
+
+    • 1 1/2 cups mixed greens dressed with 2 Tbsp. Lemon-Tahini Dressing\n\n
+
+Daily Totals: 1,214 calories, 58 g protein, 166 g carbohydrates, 32 g fiber, 41 g fat, 1,553 mg sodium.</string>
+    <string name="day5">Breakfast (290 calories)\n
+    • 1 serving Peanut Butter-Banana Cinnamon Toast\n\n
+
+    Clean-Eating Shopping Tip: When choosing a store-bought peanut butter, avoid brands with added sugars and trans fats. Read more about choosing a healthy peanut butter.\n\n\n
+
+    A.M. Snack (32 calories)\n
+    • 1/2 cup raspberries\n\n\n
+
+    Lunch (392 calories)\n
+    • 1 serving Greek Meatball Mezze Bowl\n\n\n
+
+    Dinner (543 calories)\n
+    • 1 serving Pork Chops with Garlicky Broccoli\n\n
+
+    Daily Totals: 1,225 calories, 54 g protein, 102 g carbohydrates, 30 g fiber, 71 g fat, 1,175 mg sodium.</string>
+    <string name="day6">Breakfast (257 calories)\n
+    • 1/2 cup rolled oats, cooked in 1 cup milk\n\n
+
+    • 1 medium plum, chopped\n\n
+
+    Cook oats and top with plum and a pinch of cinnamon.\n\n\n
+
+    A.M. Snack (101 calories)\n
+    • 1 medium pear\n\n
+
+    Lunch (325 calories)\n
+    • 1 serving Veggie \'&amp;\' Hummus Sandwich\n\n
+
+    Clean-Eating Shopping Tip: Double-check the ingredient list on hummus to make sure you\'re choosing one without added sugars or excess sodium. You can also try making your own. EatingWell\'s Garlic Hummus is both easy and delicious.\n\n\n
+    P.M. Snack (62 calories)\n
+    • 1 medium orange\n\n\n
+
+    Dinner (543 calories)\n
+    • 1 serving Cauliflower Rice-Stuffed Peppers\n\n
+
+    • 2 cups mixed greens dressed with 1 Tbsp. Citrus Vinaigrette\n\n
+
+    Meal-Prep Tip: You\'ll use the remaining Citrus Vinaigrette next week.\n\n
+
+    Daily Totals: 1,203 calories, 57g protein, 146 g carbohydrates, 31 g fiber, 49 g fat, 1,120 mg sodium.</string>
+    <string name="day7">Breakfast (307 calories)\n
+    • 2 cups Jason Mraz\'s Avocado Green Smoothie\n\n\n
+
+    A.M. Snack (35 calories)\n
+    • 1 clementine\n\n\n
+
+    Lunch (352 calories)\n
+    • 2 1/4 cup Tomato, Cucumber \'&amp;\' White-Bean Salad with Basil Vinaigrette\n\n
+
+    • 1 slice sprouted-grain bread, toasted and topped with 1 Tbsp. hummus\n\n
+
+    If you\'re taking this salad to go, pack it up in this handy meal-prep container, specifically made to keep your greens fresh and dressing separate until you\'re ready to eat.\n\n
+
+    Meal-Prep Tip: Save a serving of the Tomato, Cucumber \'&amp;\' White-Bean Salad with Basil Vinaigrette to have for lunch on Day 10. Store the dressing separately.\n\n\n
+
+    P.M. Snack (30 calories)\n
+    • 1 plum\n\n\n
+
+    Dinner (490 calories)\n
+    • 1 1/2 cups Mexican Cabbage Soup\n\n
+
+    • 2 cups No-Cook Black Bean Salad\n\n
+    Meal-Prep Tip: Save a 1-cup serving of the No-Cook Black Bean Salad to have for lunch on Day 9. Store the dressing separately and wait to add until ready to eat. Pack up 2 servings of the Mexican Cabbage Soup in a leak-proof container to have for lunch on Days 9 \'&amp;\' 12.\n\n
+
+        Daily Totals: 1,214 calories, 35 g protein, 163 g carbohydrates, 48 g fiber, 55 g fat, 1,365 mg sodium.</string>
 </resources>

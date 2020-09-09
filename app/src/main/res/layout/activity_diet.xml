@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/s_Ract1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DietActivity">
+
+    <ImageView
+        android:id="@+id/s_bg2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.8"
+
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/s_bg2" />
+
+    <Button
+        android:id="@+id/s_b_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:alpha="0.5"
+        android:padding="20dp"
+        android:text="@string/act1_but1"
+        android:textAlignment="center"
+        android:textColor="@color/colorblack"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/s_b_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/s_b_1"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.5"
+        android:padding="20dp"
+        android:text="@string/act1_but2"
+        android:textAlignment="center"
+        android:textColor="@color/colorblack"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/s_b_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/s_b_2"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.5"
+        android:padding="20dp"
+        android:text="@string/act1_but3"
+        android:textAlignment="center"
+        android:textColor="@color/colorblack"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
