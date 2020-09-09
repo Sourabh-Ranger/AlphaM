@@ -16,7 +16,7 @@ public class ExerciseActivity extends AppCompatActivity {
 
     public void LoadBmi(View v){
 
-        Intent intent = new Intent(this, AlbumActivity.class);
+        Intent intent = new Intent(this, BmiActivity.class);
         startActivity(intent);
     }
     public void LoadPlan(View v){

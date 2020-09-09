@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/blue"
     tools:context=".ExerciseActivity">
 
     <Button
@@ -14,8 +15,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="105dp"
         android:layout_marginTop="150dp"
-        android:onClick="LoadBmi"
         android:background="@color/white"
+        android:onClick="LoadBmi"
         android:text="BMI" />
 
     <Button
@@ -26,8 +27,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="105dp"
         android:layout_marginTop="250dp"
-        android:onClick="LoadPlan"
         android:background="@color/white"
+        android:onClick="LoadPlan"
         android:text="PLAN" />
 
 </RelativeLayout>
