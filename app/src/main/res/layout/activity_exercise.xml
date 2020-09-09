@@ -4,46 +4,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/blue"
-    tools:context=".AlbumActivity">
+    tools:context=".ExerciseActivity">
 
     <Button
-        android:id="@+id/meditation_btn"
-        android:layout_width="174dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginStart="105dp"
-        android:layout_marginTop="50dp"
-        android:background="@color/white"
-        android:onClick="LoadMeditation"
-        android:text="MEDITATION" />
-
-    <Button
-        android:id="@+id/study_btn"
+        android:id="@+id/bmi_btn"
         android:layout_width="174dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="105dp"
         android:layout_marginTop="150dp"
+        android:onClick="LoadBmi"
         android:background="@color/white"
-        android:onClick="LoadStudy"
-        android:text="STUDY" />
+        android:text="MUSIC" />
 
     <Button
-        android:id="@+id/relax_btn"
+        android:id="@+id/news_btn"
         android:layout_width="174dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="105dp"
         android:layout_marginTop="250dp"
+        android:onClick="LoadPlan"
         android:background="@color/white"
-        android:onClick="LoadRelax"
-        android:text="RELAX" />
-
+        android:text="NEWS" />
 
 </RelativeLayout>
-
-

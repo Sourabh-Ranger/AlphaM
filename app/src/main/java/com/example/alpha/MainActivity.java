@@ -23,12 +23,17 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-    public void LoadMusic(View v){
+    public void LoadAlbum(View v){
 
-        Intent intent = new Intent(this, MusicActivity.class);
+        Intent intent = new Intent(this, AlbumActivity.class);
         startActivity(intent);
     }
     public void LoadNews(View v){
+
+        Intent intent = new Intent(this, NewsActivity.class);
+        startActivity(intent);
+    }
+    public void LoadExercise(View v){
 
         Intent intent = new Intent(this, NewsActivity.class);
         startActivity(intent);

@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Music3Activity">
 
-  </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:src="@drawable/music" />
+
+    <com.example.jean.jcplayer.view.JcPlayerView
+        android:id="@+id/jcplayer"
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        app:next_icon_color="@color/blue"
+        app:pause_icon_color="@color/blue"
+        app:play_icon_color="@color/blue"
+        app:previous_icon_color="@color/blue"
+        app:progress_color="@color/blue"
+        app:random_icon_color="@color/blue"
+        app:repeat_icon_color="@color/blue"
+        app:repeat_one_icon_color="@color/blue"
+        app:seek_bar_color="@color/blue" />
+
+
+</RelativeLayout>

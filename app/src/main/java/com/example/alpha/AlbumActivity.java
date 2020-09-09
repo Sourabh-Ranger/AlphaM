@@ -15,14 +15,20 @@ public class AlbumActivity extends AppCompatActivity {
 
     }
 
-    public void LoadMusic(View v){
+    public void LoadMeditation(View v){
 
         Intent intent = new Intent(this, MusicActivity.class);
         startActivity(intent);
     }
-    public void LoadNews(View v){
+    public void LoadStudy(View v){
 
-        Intent intent = new Intent(this, NewsActivity.class);
+        Intent intent = new Intent(this, Music2Activity.class);
+        startActivity(intent);
+    }
+
+    public void LoadRelax(View v){
+
+        Intent intent = new Intent(this, Music3Activity.class);
         startActivity(intent);
     }
 
