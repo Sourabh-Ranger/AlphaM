@@ -21,7 +21,7 @@ public class ExerciseActivity extends AppCompatActivity {
     }
     public void LoadPlan(View v){
 
-        Intent intent = new Intent(this, NewsActivity.class);
+        Intent intent = new Intent(this, BmiActivity.class);
         startActivity(intent);
     }
 
