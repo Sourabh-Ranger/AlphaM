@@ -13,7 +13,7 @@
         android:layout_height="match_parent"
         android:alpha="0.2"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/s_bg3" />
+        app:srcCompat="@color/white" />
 
     <Button
         android:id="@+id/back2"
@@ -27,6 +27,7 @@
         android:id="@+id/act4_scroll"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@color/white"
         android:scrollbars="vertical">
 
         <LinearLayout

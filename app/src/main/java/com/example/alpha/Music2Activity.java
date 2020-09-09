@@ -17,8 +17,8 @@ public class Music2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_music2);
 
 
-        String url1="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FCalm%20Music%20for%20Peace%20and%20Relaxation%2C%20Inner%20Peace%20Music%20%E9%9F%B3%E6%A5%BD%20to%20Calm%20the%20Mind2020%2C.mp3?alt=media&token=a035fc05-6612-4bc0-b9d3-bb83213f24b4";
-        String url2="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FYanny%20v%20Laurel%20video%20which%20name%20do%20you%20hear%20audio.mp3?alt=media&token=300e765e-7cf2-4ecf-bd83-3bf7c3f49668";
+        String url1="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FStudy1.mp3?alt=media&token=890c2e33-9741-4c58-b37a-362bfd4cf61f";
+        String url2="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FStudy2.mp3?alt=media&token=af6f018c-ed29-4006-a053-0e2931403d09";
         JcPlayerView jcPlayerView=findViewById(R.id.jcplayer);
 
 

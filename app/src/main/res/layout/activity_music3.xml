@@ -10,9 +10,11 @@
     <ImageView
         android:layout_width="250dp"
         android:layout_height="250dp"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_gravity="center"
-        android:src="@drawable/music" />
+        android:layout_marginTop="80dp"
+        android:src="@drawable/mental" />
 
     <com.example.jean.jcplayer.view.JcPlayerView
         android:id="@+id/jcplayer"

@@ -39,5 +39,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void LoadDiet(View v){
+
+        Intent intent = new Intent(this, DietActivity.class);
+        startActivity(intent);
+    }
 
 }

@@ -24,7 +24,7 @@
         android:layout_height="match_parent"
         android:alpha="0.2"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/s_bg4" />
+        app:srcCompat="@color/white" />
 
     <ScrollView
         android:id="@+id/s_scroll1"

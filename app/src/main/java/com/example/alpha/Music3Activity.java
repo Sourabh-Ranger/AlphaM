@@ -16,14 +16,14 @@ public class Music3Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_music3);
 
-        String url1="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FCalm%20Music%20for%20Peace%20and%20Relaxation%2C%20Inner%20Peace%20Music%20%E9%9F%B3%E6%A5%BD%20to%20Calm%20the%20Mind2020%2C.mp3?alt=media&token=a035fc05-6612-4bc0-b9d3-bb83213f24b4";
-        String url2="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FYanny%20v%20Laurel%20video%20which%20name%20do%20you%20hear%20audio.mp3?alt=media&token=300e765e-7cf2-4ecf-bd83-3bf7c3f49668";
+        String url1="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FRelax1.mp3?alt=media&token=6dbc6d14-5e42-47c2-b933-cf4c037bf98d";
+        String url2="https://firebasestorage.googleapis.com/v0/b/alpha-music-94973.appspot.com/o/Songs%2FRelax2.mp3?alt=media&token=d5732302-2df1-4f33-8db4-dfb5d6c9e905";
         JcPlayerView jcPlayerView=findViewById(R.id.jcplayer);
 
 
         ArrayList<JcAudio> jcAudios = new ArrayList<>();
-        jcAudios.add(JcAudio.createFromURL("mind 1",url1));
-        jcAudios.add(JcAudio.createFromURL("mind 2",url2));
+        jcAudios.add(JcAudio.createFromURL("Relax 1",url1));
+        jcAudios.add(JcAudio.createFromURL("Relax 2",url2));
 
         jcPlayerView.initPlaylist(jcAudios, null);
 
