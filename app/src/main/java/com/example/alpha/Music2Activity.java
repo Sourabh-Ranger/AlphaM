@@ -23,8 +23,8 @@ public class Music2Activity extends AppCompatActivity {
 
 
         ArrayList<JcAudio> jcAudios = new ArrayList<>();
-        jcAudios.add(JcAudio.createFromURL("mind 1",url1));
-        jcAudios.add(JcAudio.createFromURL("mind 2",url2));
+        jcAudios.add(JcAudio.createFromURL("Study 1",url1));
+        jcAudios.add(JcAudio.createFromURL("Study 2",url2));
 
         jcPlayerView.initPlaylist(jcAudios, null);
 
