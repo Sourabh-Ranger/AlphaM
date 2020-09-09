@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".Diet3Activity"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".Diet3Activity" />
         <activity android:name=".Diet2Activity" />
         <activity android:name=".Diet1Activity" />
         <activity android:name=".DietActivity" />
@@ -23,7 +24,7 @@
         <activity android:name=".AlbumActivity" />
         <activity android:name=".NewsActivity" />
         <activity android:name=".MusicActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
