@@ -16,10 +16,10 @@
         android:layout_marginTop="150dp"
         android:onClick="LoadBmi"
         android:background="@color/white"
-        android:text="MUSIC" />
+        android:text="BMI" />
 
     <Button
-        android:id="@+id/news_btn"
+        android:id="@+id/plan_btn"
         android:layout_width="174dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -28,6 +28,6 @@
         android:layout_marginTop="250dp"
         android:onClick="LoadPlan"
         android:background="@color/white"
-        android:text="NEWS" />
+        android:text="PLAN" />
 
 </RelativeLayout>

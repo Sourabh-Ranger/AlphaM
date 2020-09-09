@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void LoadExercise(View v){
 
-        Intent intent = new Intent(this, NewsActivity.class);
+        Intent intent = new Intent(this, ExerciseActivity.class);
         startActivity(intent);
     }
 
