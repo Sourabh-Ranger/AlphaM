@@ -1,10 +1,7 @@
 # AlphaM
 fitapp
 
-Description:The main aim of our app is to help people to get rid of stress by providing specific music with specific frequencies and help people who are not having a proper diet by providing details of various recipes and items and also includes diet and exercise plans. And it serves the the maximum information for people, searching for different things about health in a single platform. And our app is connected to database one who following exercise plans won’t lose his progress if he/she is logged in.
-
-Login page: Created a login page to sign up and people can login with their email address and email password so there is no need to create a separate app account but there is option like forget password(still needed to add).
-
+Description:The main aim of our app is to help people to get rid of stress by providing specific music with specific frequencies and help people who are not having a proper diet by providing details of various recipes and items and also includes diet and exercise plans. And it serves the the maximum information for people, searching for different things about health in a single platform. 
 Loginactivity.xml  for the layout designs; Loginactivity.java for the page implementation.
 
 Mainactivity:After successful login, user is directed mainactivity that contains four options which leads to other four activities . Among four first one is music activity, second one is news activity ,third is Exercise activity and last one is Diet activity. So user can choose whatever he wants.
